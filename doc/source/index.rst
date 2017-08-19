@@ -2,6 +2,13 @@
 Note taking with reStructuredText
 *********************************
 
+.. important::                                                                   
+   This project is discontinued. Please use `pandoc-notetaking`_ instead.  The
+   code of `pandoc-notetakting` is generic, works with most markup languages
+   (including *asciidoc*) and can optionally use pandoc_  as renderer.
+
+.. _pandoc-notetaking: http://blog.getreu.net/projects/pandoc-notetaking/
+.. _pandoc: http://pandoc.org
 
 
 Markup languages like ``reStructuredText`` are perfectly suited for quick note
